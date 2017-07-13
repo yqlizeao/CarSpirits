@@ -1,0 +1,5 @@
+F:\visual studio 2013\正式项目v1.0\CarSpirits\CarSpiritsCommon\bin\Debug\CarSpiritsCommon.dll
+F:\visual studio 2013\正式项目v1.0\CarSpirits\CarSpiritsCommon\bin\Debug\CarSpiritsCommon.pdb
+F:\visual studio 2013\正式项目v1.0\CarSpirits\CarSpiritsCommon\obj\Debug\CarSpiritsCommon.dll
+F:\visual studio 2013\正式项目v1.0\CarSpirits\CarSpiritsCommon\obj\Debug\CarSpiritsCommon.pdb
+F:\visual studio 2013\正式项目v1.0\CarSpirits\CarSpiritsCommon\obj\Debug\CarSpiritsCommon.csprojResolveAssemblyReference.cache

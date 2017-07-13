@@ -1,0 +1,11 @@
+F:\visual studio 2013\正式项目v1.0\CarSpirits\CarSpiritsDAL\bin\Debug\CarSpiritsDAL.dll
+F:\visual studio 2013\正式项目v1.0\CarSpirits\CarSpiritsDAL\bin\Debug\CarSpiritsDAL.pdb
+F:\visual studio 2013\正式项目v1.0\CarSpirits\CarSpiritsDAL\obj\Debug\CarSpiritsDAL.csprojResolveAssemblyReference.cache
+F:\visual studio 2013\正式项目v1.0\CarSpirits\CarSpiritsDAL\obj\Debug\CarSpiritsDAL.dll
+F:\visual studio 2013\正式项目v1.0\CarSpirits\CarSpiritsDAL\obj\Debug\CarSpiritsDAL.pdb
+F:\visual studio 2013\正式项目v1.0\CarSpirits\CarSpiritsDAL\bin\Debug\CarSpiritsCommon.dll
+F:\visual studio 2013\正式项目v1.0\CarSpirits\CarSpiritsDAL\bin\Debug\CarSpiritsDBUtility.dll
+F:\visual studio 2013\正式项目v1.0\CarSpirits\CarSpiritsDAL\bin\Debug\CarSpiritsModel.dll
+F:\visual studio 2013\正式项目v1.0\CarSpirits\CarSpiritsDAL\bin\Debug\CarSpiritsCommon.pdb
+F:\visual studio 2013\正式项目v1.0\CarSpirits\CarSpiritsDAL\bin\Debug\CarSpiritsDBUtility.pdb
+F:\visual studio 2013\正式项目v1.0\CarSpirits\CarSpiritsDAL\bin\Debug\CarSpiritsModel.pdb
